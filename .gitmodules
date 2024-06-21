@@ -2,3 +2,7 @@
 	path = .registry
 	url = https://github.com/r-multiverse/production
 	branch = HEAD
+[submodule "nanonext"]
+	path = nanonext
+	url = https://github.com/shikokuchuo/nanonext
+	branch = *release
